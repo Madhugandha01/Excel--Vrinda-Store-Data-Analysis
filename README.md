@@ -29,8 +29,8 @@ The data underscores the necessity to target women customers, particularly those
 
 
 ## ✤ Additional Insights: 
-1. Product Performance: Identify the top-selling products within each category to refine inventory and marketing strategies.
-2. Seasonal Trends: Analyze sales patterns throughout the year to capitalize on seasonal peaks and plan inventory accordingly.
-3. Customer Segmentation: Segment customers based on their purchasing behavior to personalize marketing efforts and enhance customer satisfaction.
+### 1. Product Performance: Identify the top-selling products within each category to refine inventory and marketing strategies.
+### 2. Seasonal Trends: Analyze sales patterns throughout the year to capitalize on seasonal peaks and plan inventory accordingly.
+### 3. Customer Segmentation: Segment customers based on their purchasing behavior to personalize marketing efforts and enhance customer satisfaction.
 
 By leveraging these additional insights, Vrinda Store can further optimize its operations and elevate its competitive edge in the market. 📈
